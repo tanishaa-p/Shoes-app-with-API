@@ -1,6 +1,10 @@
-# second_project
+**"Sneakerhead" app**
 
-A new Flutter project.
+
+https://github.com/tanishaa-p/Shoes-app-with-API/assets/143655963/5ac165db-e1ee-4f8f-8179-1b1b1af126d3
+
+
+In this project, I created a Shoes flutter app, integrated to API to load multiple shoes and their details. The UI/UX of the project is properly laid with the integrated API.
 
 ## Getting Started
 
